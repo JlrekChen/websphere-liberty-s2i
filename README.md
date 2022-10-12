@@ -1,4 +1,4 @@
-WebSphere Liberty UBI-min images for OpenShift Source To Image (S2I)
+WebSphere Liberty UBI-min images for OpenShift Source To Image (S2I) for jchen45
 =============================================
 
 This repository contains the source for building a WebSphere Liberty Source to Image (S2I) builder using Red Hat Universal Base Image (UBI) 7 and either Java 8 or Java 11. 
